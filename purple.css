@@ -1,0 +1,27 @@
+:root {
+    --background-primary: #0c0c0c;
+    --background-secondary: #000000;
+    --background-tertiary: #000000;
+    --input-background: #1E1F22;
+    --shop-card-background: #000000;
+    --interactive-active: #240025;
+    --button-danger-background: #DD383F;
+    --button-outline-danger-border: #DD383F;
+    --channels-default: #949BA4;
+    --status-danger: #F64046;
+    --brand-500: #050505;
+    --brand-500-hover: #240025;
+    --1: #be00c4;
+    --2: #000000;
+    --3: #00000096;
+    --4: #be00c4;
+    --5: #050505;
+    --6: #be00c4;
+    --7: #240025;
+    --8: #b1b5bb;
+    --button-secondary-background: #4E5058;
+    --button-secondary-background-hover: #6D6F78;
+    --white: #ffffff;
+    --profile-background: #111214;
+    --profile-badge-background: #1f2024;
+}
